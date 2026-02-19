@@ -44,6 +44,7 @@ The application uses Gemini Pro (Google Generative AI) for intelligent food anal
 ### 1️⃣ Clone the Repository
 
 git clone https:https://github.com/tarun5408/Advanced-food-nutrition-with-gemini-ai.git
+
 cd Advanced-Nutrition-Science  
 
 ### 2️⃣ Install Dependencies
